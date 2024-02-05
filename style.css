@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+
+header{
+    background-color:#00c0ff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    color:#c0ff00;
+    border-radius: 8px;
+    border:solid 1px ;
+}
+
+footer p{
+    background-color: #ff4001;
+    color: #c0ff00;
+}
+
+nav{
+    margin: 5px;
+    padding: 2px;
+    border: solid 3px #3f00ff;
+    border-radius: 8px;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 30px;
+    color: #ff4001;
+    border: solid 2px #01ffff;
+    border-radius: 5px;
+}
+
+.price{
+    border: solid 2px #52f915;
+    background-color: #01ffc1;
+    border-radius: 10px;
+}
+
+h2{
+    color: #00ff41;
+}
+
+a{
+    text-decoration: none;
+    color: #ff00c0;
+    border: dashed 2px #00ff41;
+}
+
+main{
+  margin: 20px;
+}
